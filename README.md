@@ -1,6 +1,6 @@
-# cinehub
+# Cinehub
 
-A new Flutter project.
+A new Flutter project that I'm working on.
 
 ## Getting Started
 
