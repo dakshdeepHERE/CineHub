@@ -1,6 +1,4 @@
-// ignore_for_file: use_build_context_synchronously
-
-import 'package:movie_app/cubit/app_cubit.dart';
+// ignore_for_file: use_build_context_synchronously, must_be_immutable
 import 'package:movie_app/screens/components/loading.dart';
 import 'package:movie_app/utils/app_constants.dart';
 import 'package:movie_app/utils/image_list.dart';

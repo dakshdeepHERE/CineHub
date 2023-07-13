@@ -1,4 +1,3 @@
-import 'package:movie_app/cubit/app_cubit.dart';
 import 'package:movie_app/models/genres_rm.dart';
 import 'package:movie_app/screens/add_movie_page.dart';
 import 'package:movie_app/screens/all_movies_page.dart';

@@ -1,6 +1,4 @@
 import 'dart:ui';
-
-import 'package:movie_app/cubit/app_cubit.dart';
 import 'package:movie_app/cubit/app_state.dart';
 import 'package:movie_app/utils/extensions.dart';
 import 'package:flutter/cupertino.dart';

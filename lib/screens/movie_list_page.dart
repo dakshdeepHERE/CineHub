@@ -2,7 +2,6 @@
 
 import 'dart:ui';
 
-import 'package:movie_app/cubit/app_cubit.dart';
 import 'package:movie_app/models/genres_rm.dart';
 import 'package:movie_app/utils/app_constants.dart';
 import 'package:movie_app/utils/image_list.dart';
