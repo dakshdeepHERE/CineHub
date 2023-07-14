@@ -81,7 +81,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Thanks to the team at [http://moviesapi.ir/](http://moviesapi.ir/) for providing the Movies API.
 - Special thanks to the Flutter community for their support and the amazing libraries and tools they have developed.
-- Thanks for the inspiration [Dribble](https://dribbble.com/shots/20285249-Movie-App-Exploration/attachments/15347450?mode=media)
+- Thanks for the inspiration [Dribble]([https://dribbble.com/shots/20285249-Movie-App-Exploration/attachments/15347450?mode=media](https://dribbble.com/shots/20285249-Movie-App-Exploration/attachments/15347450?mode=media))
 
 ## Contact
 
