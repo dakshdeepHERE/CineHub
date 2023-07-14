@@ -40,7 +40,7 @@ To run this app on your local machine, follow these steps:
 3. Navigate to the project directory:
 
    ```shell
-   cd cinehub
+   cd CineHub
    ```
 
 4. Fetch the required dependencies by running the following command:
