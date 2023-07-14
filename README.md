@@ -34,13 +34,13 @@ To run this app on your local machine, follow these steps:
 2. Clone this repository using the following command:
 
    ```shell
-   git clone https://github.com/your-username/movies-app.git
+   git clone https://github.com/dakshdeepHERE/CineHub
    ```
 
 3. Navigate to the project directory:
 
    ```shell
-   cd movies-app
+   cd cinehub
    ```
 
 4. Fetch the required dependencies by running the following command:
