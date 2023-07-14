@@ -1,4 +1,4 @@
-# Movies App
+# CineHub
 
 This is a Flutter-based mobile application that allows users to explore and discover movies using the Movies API from [http://moviesapi.ir/](http://moviesapi.ir/). The app utilizes the BLoC (Business Logic Component) architecture pattern for efficient state management and separation of concerns.
 
