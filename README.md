@@ -89,3 +89,16 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries or questions, please contact [@Mail](mailto:dakshadeep1234@gmail.com).
 
 If you find this project useful or interesting, we would greatly appreciate your support by giving it a star ⭐️ on GitHub. Your feedback and contribution are invaluable in helping us improve and enhance the app for everyone's benefit. Thank you for your support!
+
+## Images
+
+![Search Bar](readme/image1.png)
+![Search Bar](readme/image2.png)
+![Latest Movies](readme/image3.png)
+![Crime Genre](readme/image4.png)
+![Crime Genre](readme/image5.png)
+![Genre](readme/image6.png)
+![Movie Showcase Actors](readme/image7.png)
+![Movie Showcase Writer](readme/image8.png)
+![Homepage](readme/image9.png)
+![Showcase](readme/Showcase.gif)
