@@ -92,13 +92,15 @@ If you find this project useful or interesting, we would greatly appreciate your
 
 ## Images
 
-![Search Bar](readme/image1.png)
-![Search Bar](readme/image2.png)
-![Latest Movies](readme/image3.png)
-![Crime Genre](readme/image4.png)
-![Crime Genre](readme/image5.png)
-![Genre](readme/image6.png)
-![Movie Showcase Actors](readme/image7.png)
-![Movie Showcase Writer](readme/image8.png)
-![Homepage](readme/image9.png)
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="readme/image1.png" alt="Search Bar" width="300px">
+  <img src="readme/image2.png" alt="Search Bar" width="300px">
+  <img src="readme/image3.png" alt="Latest Movies" width="300px">
+  <img src="readme/image4.png" alt="Crime Genre" width="300px">
+  <img src="readme/image5.png" alt="Crime Genre" width="300px">
+  <img src="readme/image6.png" alt="Genre" width="300px">
+  <img src="readme/image7.png" alt="Movie Showcase Actors" width="300px">
+  <img src="readme/image8.png" alt="Movie Showcase Writer" width="300px">
+  <img src="readme/image9.png" alt="Homepage" width="300px">
+</div>
 ![Showcase](readme/Showcase.gif)
