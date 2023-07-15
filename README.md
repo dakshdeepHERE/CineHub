@@ -92,6 +92,8 @@ If you find this project useful or interesting, we would greatly appreciate your
 
 ## Images
 
+![Showcase](readme/Showcase.gif)
+
 <div style="display: flex; flex-wrap: wrap;">
   <img src="readme/image1.png" alt="Search Bar" width="300px">
   <img src="readme/image2.png" alt="Search Bar" width="300px">
@@ -103,4 +105,3 @@ If you find this project useful or interesting, we would greatly appreciate your
   <img src="readme/image8.png" alt="Movie Showcase Writer" width="300px">
   <img src="readme/image9.png" alt="Homepage" width="300px">
 </div>
-![Showcase](readme/Showcase.gif)
