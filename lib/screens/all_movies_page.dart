@@ -65,7 +65,7 @@ class _AllMoviesPageState extends State<AllMoviesPage> {
                   AppBarWidget(
                       haveSearchTextField: false,
                       selectedGenreName: widget.genreRM.name == ''
-                          ? AppConstants.latesetMovies
+                          ? AppConstants.LatestMovies
                           : widget.genreRM.name),
                 movieListWidget(size, state),
               ],

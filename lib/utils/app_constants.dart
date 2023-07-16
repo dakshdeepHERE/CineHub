@@ -11,7 +11,7 @@ class AppConstants {
   static const liveNow = 'Live now';
   static const watchNow = 'Watch now';
   static const seeAll = 'See all';
-  static const latesetMovies = 'Lateset movies';
+  static const LatestMovies = 'Latest movies';
   static const topRated = 'Top rated';
   static const playNow = 'Play now';
   static const download = 'Download';

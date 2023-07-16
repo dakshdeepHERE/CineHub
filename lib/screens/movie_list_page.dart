@@ -370,7 +370,7 @@ class MovieListPage extends HookWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               Text(
-                AppConstants.latesetMovies,
+                AppConstants.LatestMovies,
                 style: AppTheme.getTextTheme(null)
                     .bodyLarge!
                     .copyWith(color: Colors.white),
